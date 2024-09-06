@@ -1,0 +1,1 @@
+pdf_path = "/Users/coolsnow/code/fun_bot/研报/2024Z世代AIGC态度报告：AI如何影响每个“我”.pdf" 
